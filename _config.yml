@@ -1,13 +1,13 @@
-# ---------------- #
+﻿# ---------------- #
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://mazhuang.org
+url: http://ranihu.github.io
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+title: 我的个人博客
+subtitle: "一名前端程序媛"
+description: "胡冉的个人博客"
+keywords: huran,ranihu
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -16,12 +16,10 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization: zkh360.com
-organization_url: http://www.zkh360.com
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+author: Hu Ran
+github_username: ranihu
+location: Shanghai, China
+email: rita-hu@foxmail.com
 
 # ---------------- #
 #    Navigation    #

@@ -1,14 +1,14 @@
----
+﻿---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 一名前端程序媛
+keywords: ranihu，胡冉,Huran
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+我是胡冉，一名前端程序媛。
 
 仰慕「优雅编码的艺术」。
 
