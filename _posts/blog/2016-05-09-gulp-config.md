@@ -18,7 +18,6 @@ gulp是前端自动化工具，它可以进行html、css压缩合并、js检查�
 
    ``` 
    node -v   查看安装的nodejs版本，出现版本号，说明已正确安装node
-   
    ```
 
 
@@ -28,7 +27,6 @@ gulp是前端自动化工具，它可以进行html、css压缩合并、js检查�
 
     ``` 
     npm -v     查看npm版本号  
-    
     ```
     
     
@@ -36,7 +34,6 @@ gulp是前端自动化工具，它可以进行html、css压缩合并、js检查�
     
     ``` 
     npm install cnpm -g --registry=https://registry.npm.taobao.org  
-    
     ```
     
 
@@ -46,14 +43,12 @@ gulp是前端自动化工具，它可以进行html、css压缩合并、js检查�
 
    ``` 
    npm install gulp -g 
-   
    ```
    
 2. 查看版本
 
    ``` 
    gulp -v 
-   
    ```   
    
    
@@ -65,7 +60,6 @@ package.json是基于nodejs项目必不可少的配置文件，存放在项目�
 
    ``` 
    npm init  
-   
    ```
    
 2. 然后会出现一些配置信息，可直接回车跳过，package.json就新建完成了。不过要注意的是此文件不能添加任何注释哦~
@@ -79,21 +73,18 @@ package.json是基于nodejs项目必不可少的配置文件，存放在项目�
 
    ``` 
    npm install gulp --save-dev  
-   
    ```
    
 2. 安装插件  
 
    ``` 
-   cnpm install gulp-sass --save-dev          以安装sass插件为例  
-   
+   cnpm install gulp-sass --save-dev          以安装sass插件为例   
    ```
 
 3. 同时安装多个插件
 
    ``` 
    npm install gulp-jshint gulp-sass gulp-concat gulp-uglify gulp-rename gulp-jshint-html-reporter --save-dev            常用插件 
-   
    ```
    
    
@@ -268,15 +259,13 @@ gulp.task('default', ['less', 'sass', 'jshint'], function () {
 1. 执行所有定义的任务
 
    ```
-   gulp
-   
+   gulp  
    ```
 
 2. 执行指定任务   
 
     ``` 
     gulp 任务名  如gulp sass 
-    
     ```
 
    
