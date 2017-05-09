@@ -1,101 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c896a3a-481f-4222-afa5-f586ca2a6004" name="Default" comment="修改信息配置">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2011-05-25-export-data-from-excel-to-word-by-vba.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2011-05-25-gather-multi-excel-to-one-by-vba.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2011-10-11-fibonacci.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2011-11-04-basis.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2011-11-06-basis.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2011-11-20-permutation.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2012-02-12-hge.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2012-02-24-gecko-embed.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2012-03-01-mozilla-file-tree.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2012-03-15-gecko-plugin.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2012-03-22-vba-knowledge.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2012-04-05-learn-python-practise.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2012-04-08-learn-python-practise.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2012-06-17-windows-skills.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2012-06-19-gecko-use-profile.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2013-04-18-windows-ui-notes.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2013-05-19-when-your-exe-name-contains-install-or-setup.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2013-06-22-multi-included-source-file.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2013-10-26-namespace-with-a-static-variable.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2013-11-23-HFDP-Notes1.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2013-12-03-HFDP-Notes2.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2013-12-22-HFDP-Notes3.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2014-02-19-excel-incommonuse.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2014-03-07-pits-in-windows.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2014-05-10-numbersign.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2014-05-24-virtualfunctions.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2014-05-31-HFDP-Note4.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2014-06-01-comsketch.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2014-06-29-acl-chapter2.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2014-07-13-cppinit.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2014-07-13-dllsearch.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2014-07-19-fiddlerwithwinhttp.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2014-07-20-fiddlercontextmenu.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2014-08-01-deadlock.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2014-09-13-make-exe-small.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2014-10-09-path-after-rename.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2014-10-12-csdnresautocomment.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2014-12-21-vim-python-autocomplete.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2014-12-31-simplify-apk.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2015-01-19-printf.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2015-03-31-singleton-process.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2015-04-03-java-date.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2015-04-06-dp-sp-px.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2015-05-06-android-studio.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2015-05-10-emacs.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2015-05-15-java-compare.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2015-05-27-svn-exception.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2015-06-14-win-discuz.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2015-06-23-vim-taglist-smali.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2015-07-08-fiddler-filter-by-device.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2015-10-25-mac.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2015-10-31-pits-in-vimscript.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2015-12-02-excel-sift.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2015-12-05-diff-between-gfm-and-redcarpet.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2015-12-15-java-object-finalize.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2015-12-19-vim-markdown-toc.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2016-01-12-use-ubuntu-notes.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2016-01-14-android-system-cache.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2016-01-16-build-zeal-for-mac-osx.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2016-02-04-switch-to-kramdown-from-redcarpet.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2016-02-10-am-start-user-parameter.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2016-04-07-how-to-use-github-effective.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2016-04-18-develop-nodejs-with-atom.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2016-04-20-determine-if-my-activities-foreground.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2016-05-21-enable-https-for-github-pages.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2016-06-28-vim-kramdown-tab.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2016-07-11-remove-https.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2016-08-03-add-outline-for-markdown-in-vim.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2016-08-30-java-guide-to-cpp-programmers.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2016-09-20-java-output-ab.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2016-10-22-vim-markdown-toc-release.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/2016-12-14-rtfsc-with-opengrok.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/blog/2014-08-30-aboutlife.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/blog/2014-09-27-myself.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/blog/2014-10-28-sevenhabits.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/blog/2014-11-25-jestem.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/blog/2014-12-06-emotion-manage.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/blog/2014-12-07-habit-training-1.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/blog/2014-12-14-find-a-girl-friend.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/blog/2015-02-01-some-impressions.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/blog/2015-02-14-strum-life.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/blog/2015-03-30-work-lesson.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/blog/2015-05-09-no-need-to-tangle.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/blog/2015-05-28-leader-art.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/blog/2015-06-01-sogou-hackathon.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/blog/2015-06-12-wangxiaobo.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/blog/2015-07-23-busy-smart.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/blog/2015-09-02-love.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/blog/2015-10-25-without-internet.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/blog/2016-03-14-show-chump.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/blog/2017-01-01-my-2016.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/blog/2017-02-19-the-kite-runner.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/origin_blog/blog/2017-04-09-a-difficult-decision.md" afterPath="" />
+    <list default="true" id="9c896a3a-481f-4222-afa5-f586ca2a6004" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2011-05-25-export-data-from-excel-to-word-by-vba.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2011-05-25-gather-multi-excel-to-one-by-vba.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2011-10-11-fibonacci.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2011-11-04-basis.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2011-11-06-basis.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2011-11-20-permutation.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2012-02-12-hge.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2012-02-24-gecko-embed.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2012-03-01-mozilla-file-tree.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2012-03-15-gecko-plugin.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2012-03-22-vba-knowledge.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2012-04-05-learn-python-practise.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2012-04-08-learn-python-practise.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2012-06-17-windows-skills.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2012-06-19-gecko-use-profile.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2013-04-18-windows-ui-notes.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2013-05-19-when-your-exe-name-contains-install-or-setup.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2013-06-22-multi-included-source-file.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2013-10-26-namespace-with-a-static-variable.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2013-11-23-HFDP-Notes1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2013-12-03-HFDP-Notes2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2013-12-22-HFDP-Notes3.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2014-02-19-excel-incommonuse.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2014-03-07-pits-in-windows.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2014-05-10-numbersign.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2014-05-24-virtualfunctions.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2014-05-31-HFDP-Note4.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2014-06-01-comsketch.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2014-06-29-acl-chapter2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2014-07-13-cppinit.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2014-07-13-dllsearch.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2014-07-19-fiddlerwithwinhttp.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2014-07-20-fiddlercontextmenu.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2014-08-01-deadlock.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2014-09-13-make-exe-small.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2014-10-09-path-after-rename.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2014-10-12-csdnresautocomment.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2014-12-21-vim-python-autocomplete.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2014-12-31-simplify-apk.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2015-01-19-printf.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2015-03-31-singleton-process.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2015-04-03-java-date.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2015-04-06-dp-sp-px.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2015-05-06-android-studio.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2015-05-10-emacs.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2015-05-15-java-compare.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2015-05-27-svn-exception.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2015-06-14-win-discuz.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2015-06-23-vim-taglist-smali.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2015-07-08-fiddler-filter-by-device.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2015-10-25-mac.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2015-10-31-pits-in-vimscript.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2015-12-02-excel-sift.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2015-12-05-diff-between-gfm-and-redcarpet.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2015-12-15-java-object-finalize.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2015-12-19-vim-markdown-toc.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2016-01-12-use-ubuntu-notes.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2016-01-14-android-system-cache.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2016-01-16-build-zeal-for-mac-osx.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2016-02-04-switch-to-kramdown-from-redcarpet.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2016-02-10-am-start-user-parameter.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2016-04-07-how-to-use-github-effective.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2016-04-18-develop-nodejs-with-atom.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2016-04-20-determine-if-my-activities-foreground.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2016-05-21-enable-https-for-github-pages.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2016-06-28-vim-kramdown-tab.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2016-07-11-remove-https.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2016-08-03-add-outline-for-markdown-in-vim.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2016-08-30-java-guide-to-cpp-programmers.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2016-09-20-java-output-ab.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2016-10-22-vim-markdown-toc-release.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/2016-12-14-rtfsc-with-opengrok.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/blog/2014-08-26-takephotos.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/blog/2014-08-30-aboutlife.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/blog/2014-09-27-myself.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/blog/2014-10-28-sevenhabits.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/blog/2014-11-25-jestem.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/blog/2014-12-06-emotion-manage.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/blog/2014-12-07-habit-training-1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/blog/2014-12-14-find-a-girl-friend.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/blog/2015-02-01-some-impressions.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/blog/2015-02-14-strum-life.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/blog/2015-03-30-work-lesson.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/blog/2015-05-09-no-need-to-tangle.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/blog/2015-05-28-leader-art.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/blog/2015-06-01-sogou-hackathon.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/blog/2015-06-12-wangxiaobo.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/blog/2015-07-23-busy-smart.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/blog/2015-09-02-love.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/blog/2015-10-25-without-internet.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/blog/2016-03-14-show-chump.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/blog/2017-01-01-my-2016.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/blog/2017-02-19-the-kite-runner.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/blog/2017-04-09-a-difficult-decision.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/template.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/links.yml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/social.yml" afterPath="$PROJECT_DIR$/_data/social.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/blog/2017-05-09-first_blog.md" afterPath="$PROJECT_DIR$/_posts/blog/2017-05-09-first_blog.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -107,21 +113,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="98" column="0" lean-forward="false" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+            <state relative-caret-position="273">
+              <caret line="19" column="37" lean-forward="false" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -131,8 +127,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/blog/2017-05-09-first_blog.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="252">
-                <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <first_editor relative-caret-position="210">
+                <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -149,10 +145,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/LICENSE" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/pages/404.md" />
         <option value="$PROJECT_DIR$/pages/about.md" />
         <option value="$PROJECT_DIR$/_posts/blog/2014-08-26-takephotos.md" />
+        <option value="$PROJECT_DIR$/_data/social.yml" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_posts/blog/2017-05-09-first_blog.md" />
       </list>
     </option>
   </component>
@@ -196,6 +194,20 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ranihu.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ranihu.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_data" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -209,9 +221,11 @@
     <property name="nodejs_interpreter_path" value="D:/node/node" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="" />
+    <property name="SearchEverywhereHistoryKey" value="organization&#9;null&#9;null" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\github\ranihu.github.io" />
       <recent name="E:\github\ranihu.github.io\origin_blog" />
     </key>
   </component>
@@ -299,6 +313,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="9c896a3a-481f-4222-afa5-f586ca2a6004" name="Default" comment="" />
@@ -307,7 +324,7 @@
       <option name="presentableId" value="Default" />
       <updated>1494296318155</updated>
       <workItem from="1494296319428" duration="2176000" />
-      <workItem from="1494309198272" duration="1963000" />
+      <workItem from="1494309198272" duration="2725000" />
     </task>
     <task id="LOCAL-00001" summary="个人信息配置">
       <created>1494296574808</created>
@@ -344,11 +361,18 @@
       <option name="project" value="LOCAL" />
       <updated>1494314442098</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="删除初始博客">
+      <created>1494314644822</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1494314644822</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4139000" />
+    <option name="totallyTimeSpent" value="4901000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
@@ -424,13 +448,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -452,14 +469,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="98" column="0" lean-forward="false" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -489,39 +498,6 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="-140">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/links.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/open-source.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/wiki.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
@@ -562,17 +538,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/origin_blog/blog/2015-09-02-love.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/origin_blog/2011-05-25-export-data-from-excel-to-word-by-vba.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -606,10 +571,121 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_data/social.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/links.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/vendor/octicons/octicons/octicons.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="151" column="1" lean-forward="false" selection-start-line="151" selection-start-column="1" selection-end-line="151" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="86" column="23" lean-forward="true" selection-start-line="86" selection-start-column="23" selection-end-line="86" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        <state relative-caret-position="273">
+          <caret line="19" column="37" lean-forward="false" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/origin_blog/blog/2015-09-02-love.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/origin_blog/blog/2017-04-09-a-difficult-decision.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="168">
+            <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="29" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/skills.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/links.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/open-source.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/wiki.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/search_data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-221">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -617,8 +693,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/blog/2017-05-09-first_blog.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="252">
-            <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <first_editor relative-caret-position="210">
+            <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
