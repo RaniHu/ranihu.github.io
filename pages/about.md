@@ -1,7 +1,7 @@
 ﻿---
 layout: page
 title: About
-description: 一名前端程序媛
+description: write less do more
 keywords: ranihu，胡冉,Huran
 comments: true
 menu: 关于
