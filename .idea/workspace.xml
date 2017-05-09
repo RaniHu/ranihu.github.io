@@ -5,10 +5,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/blog/2014-08-26-takephotos.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin_blog/template.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/blog/2014-08-26-takephotos.md" afterPath="$PROJECT_DIR$/_posts/blog/2014-08-26-takephotos.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/404.md" afterPath="$PROJECT_DIR$/pages/404.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/about.md" afterPath="$PROJECT_DIR$/pages/about.md" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2011-05-25-export-data-from-excel-to-word-by-vba.md" afterPath="$PROJECT_DIR$/origin_blog/2011-05-25-export-data-from-excel-to-word-by-vba.md" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2011-05-25-gather-multi-excel-to-one-by-vba.md" afterPath="$PROJECT_DIR$/origin_blog/2011-05-25-gather-multi-excel-to-one-by-vba.md" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2011-10-11-fibonacci.md" afterPath="$PROJECT_DIR$/origin_blog/2011-10-11-fibonacci.md" />
@@ -81,6 +77,7 @@
       <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2016-09-20-java-output-ab.md" afterPath="$PROJECT_DIR$/origin_blog/2016-09-20-java-output-ab.md" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2016-10-22-vim-markdown-toc-release.md" afterPath="$PROJECT_DIR$/origin_blog/2016-10-22-vim-markdown-toc-release.md" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2016-12-14-rtfsc-with-opengrok.md" afterPath="$PROJECT_DIR$/origin_blog/2016-12-14-rtfsc-with-opengrok.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/blog/2014-08-26-takephotos.md" afterPath="$PROJECT_DIR$/_posts/blog/2017-05-09-first_blog.md" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/blog/2014-08-30-aboutlife.md" afterPath="$PROJECT_DIR$/origin_blog/blog/2014-08-30-aboutlife.md" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/blog/2014-09-27-myself.md" afterPath="$PROJECT_DIR$/origin_blog/blog/2014-09-27-myself.md" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/blog/2014-10-28-sevenhabits.md" afterPath="$PROJECT_DIR$/origin_blog/blog/2014-10-28-sevenhabits.md" />
@@ -133,12 +130,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2014-08-26-takephotos.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/blog/2014-08-26-takephotos.md">
+      <file leaf-file-name="2017-05-09-first_blog.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/blog/2017-05-09-first_blog.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="126">
-                <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+                <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -345,7 +342,7 @@
       <option name="presentableId" value="Default" />
       <updated>1494296318155</updated>
       <workItem from="1494296319428" duration="2176000" />
-      <workItem from="1494309198272" duration="1432000" />
+      <workItem from="1494309198272" duration="1646000" />
     </task>
     <task id="LOCAL-00001" summary="个人信息配置">
       <created>1494296574808</created>
@@ -361,11 +358,18 @@
       <option name="project" value="LOCAL" />
       <updated>1494296623182</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="修改信息配置">
+      <created>1494314124598</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1494314124598</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3608000" />
+    <option name="totallyTimeSpent" value="3822000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
@@ -375,7 +379,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -391,6 +395,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -603,11 +633,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/blog/2014-08-26-takephotos.md">
+    <entry file="file://$PROJECT_DIR$/_posts/blog/2017-05-09-first_blog.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="126">
-            <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />
