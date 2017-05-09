@@ -16,29 +16,45 @@ gulp是前端自动化工具，它可以进行html、css压缩合并、js检查�
 
 2. 打开命令行
 
-   ``` node -v   查看安装的nodejs版本，出现版本号，说明已正确安装node```
+   ``` 
+   node -v   查看安装的nodejs版本，出现版本号，说明已正确安装node
+   
+   ```
 
 
 ## 二、安装npm
 
 1.  npm是nodejs的包管理器，用于node插件管理（包括安装、卸载、管理依赖等）。
 
-    ``` npm -v     查看npm版本号  ```
+    ``` 
+    npm -v     查看npm版本号  
+    
+    ```
+    
     
 2.  由于npm安装插件是从国外服务器下载，可能出现异常，所以可以直接选择安装cnpm! cnpm与npm的用法完全一致，执行命令时可以将npm用cnpm代替。
     
-    ``` npm install cnpm -g --registry=https://registry.npm.taobao.org  ```
+    ``` 
+    npm install cnpm -g --registry=https://registry.npm.taobao.org  
+    
+    ```
     
 
 ## 三、全局安装gulp
 
 1. 安装命令
 
-   ``` npm install gulp -g ```
+   ``` 
+   npm install gulp -g 
+   
+   ```
    
 2. 查看版本
 
-   ``` gulp -v ```   
+   ``` 
+   gulp -v 
+   
+   ```   
    
    
 ## 四、新建pakage.json文件
@@ -47,7 +63,10 @@ package.json是基于nodejs项目必不可少的配置文件，存放在项目�
 
 1. 控制台定位到项目目录执行
 
-   ``` npm init  ```
+   ``` 
+   npm init  
+   
+   ```
    
 2. 然后会出现一些配置信息，可直接回车跳过，package.json就新建完成了。不过要注意的是此文件不能添加任何注释哦~
  
@@ -58,15 +77,24 @@ package.json是基于nodejs项目必不可少的配置文件，存放在项目�
 
 1. 本地安装gulp（定位到项目文件）
 
-   ``` npm install gulp --save-dev  ```
+   ``` 
+   npm install gulp --save-dev  
+   
+   ```
    
 2. 安装插件  
 
-   ``` cnpm install gulp-sass --save-dev          以安装sass插件为例  ```
+   ``` 
+   cnpm install gulp-sass --save-dev          以安装sass插件为例  
+   
+   ```
 
-3.同时安装多个插件
+3. 同时安装多个插件
 
-   ``` npm install gulp-jshint gulp-sass gulp-concat gulp-uglify gulp-rename gulp-jshint-html-reporter --save-dev            常用插件 ```
+   ``` 
+   npm install gulp-jshint gulp-sass gulp-concat gulp-uglify gulp-rename gulp-jshint-html-reporter --save-dev            常用插件 
+   
+   ```
    
    
 ## 六.新建gulpfile.js文件
@@ -239,11 +267,17 @@ gulp.task('default', ['less', 'sass', 'jshint'], function () {
 
 1. 执行所有定义的任务
 
-   ``` gulp  ```
+   ```
+   gulp
+   
+   ```
 
 2. 执行指定任务   
 
-    ``` gulp 任务名  如gulp sass ```
+    ``` 
+    gulp 任务名  如gulp sass 
+    
+    ```
 
    
 
