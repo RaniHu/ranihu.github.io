@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://ranihu.github.io
+url: http://www.ranihu.site
 date_format: "ordinal"
 title: 胡冉
 subtitle: "write less do more"
