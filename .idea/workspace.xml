@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c896a3a-481f-4222-afa5-f586ca2a6004" name="Default" comment="增加邮箱">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/blog/2017-06-07-markdown-basic.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/blog/2017-05-09-gulp-config.md" afterPath="$PROJECT_DIR$/_posts/blog/2017-05-09-gulp-config.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/blog/2017-06-07-markdown-basic.md" afterPath="$PROJECT_DIR$/_posts/blog/2017-06-07-markdown-basic.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -77,8 +76,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/blog/2017-06-07-markdown-basic.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="296">
-                <caret line="132" column="0" lean-forward="false" selection-start-line="132" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
+              <first_editor relative-caret-position="-82">
+                <caret line="74" column="32" lean-forward="false" selection-start-line="74" selection-start-column="32" selection-end-line="74" selection-end-column="32" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -140,6 +139,7 @@
         <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/_posts/blog/2017-05-09-gulp-config.md" />
         <option value="$PROJECT_DIR$/_posts/blog/2017-05-23-markdown-basic.md" />
+        <option value="$PROJECT_DIR$/_posts/blog/2017-06-07-markdown-basic.md" />
       </list>
     </option>
   </component>
@@ -338,7 +338,7 @@
       <workItem from="1494378407506" duration="157000" />
       <workItem from="1495519345822" duration="7251000" />
       <workItem from="1495588215540" duration="1206000" />
-      <workItem from="1496886750214" duration="3543000" />
+      <workItem from="1496886750214" duration="4538000" />
     </task>
     <task id="LOCAL-00001" summary="个人信息配置">
       <created>1494296574808</created>
@@ -445,11 +445,18 @@
       <option name="project" value="LOCAL" />
       <updated>1494322311641</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="增加博客&quot;markdown语法&quot;">
+      <created>1496892951828</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1496892951828</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24572000" />
+    <option name="totallyTimeSpent" value="25567000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -463,7 +470,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23288691" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23288691" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -538,7 +545,8 @@
     <MESSAGE value="增加ruby源" />
     <MESSAGE value="修改格式" />
     <MESSAGE value="更改日期" />
-    <option name="LAST_COMMIT_MESSAGE" value="更改日期" />
+    <MESSAGE value="增加博客&quot;markdown语法&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加博客&quot;markdown语法&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -942,8 +950,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/blog/2017-06-07-markdown-basic.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="296">
-            <caret line="132" column="0" lean-forward="false" selection-start-line="132" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
+          <first_editor relative-caret-position="-82">
+            <caret line="74" column="32" lean-forward="false" selection-start-line="74" selection-start-column="32" selection-end-line="74" selection-end-column="32" />
             <folding />
           </first_editor>
           <second_editor />
