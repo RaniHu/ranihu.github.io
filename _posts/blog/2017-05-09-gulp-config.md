@@ -3,7 +3,7 @@ layout: post
 title: 前端自动化工具gulp的基本配置
 categories: gulp
 description: gulp和grunt都是目前流行的前端自动化构建工具，但相比grunt，gulp的配置更为简单
-keywords: Java
+keywords: 前端自动化
 ---
 
 
@@ -12,7 +12,7 @@ gulp是前端自动化工具，它可以进行html、css压缩合并、js检查�
 
 ## 一、安装node.js
 
-1. 因为gulp是基于node的,所以首先我们需要搭建node环境。这一步非常简单，进入node.js官网[config-files](https://nodejs.org/en/)下载所对应的版本。下载后傻瓜式安装即可。
+1. 因为gulp是基于node的,所以首先我们需要搭建node环境。这一步非常简单，进入[node.js官网](https://nodejs.org/en/)下载所对应的版本。下载后傻瓜式安装即可。
 
 2. 打开命令行
 
