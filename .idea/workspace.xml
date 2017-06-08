@@ -76,8 +76,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/blog/2017-06-07-markdown-basic.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-82">
-                <caret line="74" column="32" lean-forward="false" selection-start-line="74" selection-start-column="32" selection-end-line="74" selection-end-column="32" />
+              <first_editor relative-caret-position="-315">
+                <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -338,7 +338,7 @@
       <workItem from="1494378407506" duration="157000" />
       <workItem from="1495519345822" duration="7251000" />
       <workItem from="1495588215540" duration="1206000" />
-      <workItem from="1496886750214" duration="4538000" />
+      <workItem from="1496886750214" duration="5528000" />
     </task>
     <task id="LOCAL-00001" summary="个人信息配置">
       <created>1494296574808</created>
@@ -452,11 +452,18 @@
       <option name="project" value="LOCAL" />
       <updated>1496892951828</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="修改博客2017-06-07">
+      <created>1496913330695</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1496913330695</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25567000" />
+    <option name="totallyTimeSpent" value="26557000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -546,7 +553,8 @@
     <MESSAGE value="修改格式" />
     <MESSAGE value="更改日期" />
     <MESSAGE value="增加博客&quot;markdown语法&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加博客&quot;markdown语法&quot;" />
+    <MESSAGE value="修改博客2017-06-07" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改博客2017-06-07" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -950,8 +958,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/blog/2017-06-07-markdown-basic.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-82">
-            <caret line="74" column="32" lean-forward="false" selection-start-line="74" selection-start-column="32" selection-end-line="74" selection-end-column="32" />
+          <first_editor relative-caret-position="-315">
+            <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
             <folding />
           </first_editor>
           <second_editor />
