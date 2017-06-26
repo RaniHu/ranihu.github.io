@@ -126,7 +126,7 @@ var rev = require('gulp-rev');	                            //更改版本号
 //定义一个less任务（自定义任务名称）
 gulp.task('less', function () {
 
-    return gulp.src('./src/style.less')                     //需要操作的文件
+    return gulp.src('./src/*.less')                     //需要操作的文件
 
         .pipe(less())	                                    //该任务调用的模块
 
@@ -137,7 +137,7 @@ gulp.task('less', function () {
 //定义一个sass任务（自定义任务名称）
 gulp.task('sass', function () {
 
-    return gulp.src('./src/style2.scss')
+    return gulp.src('./src/*.scss')
 
         .pipe(sass())
 
@@ -241,12 +241,16 @@ gulp.task('clean', function () {
 
 });
 
+//实时监测
+gulp.task('watch', function() {
+  gulp.watch('./src/*.scss', ['sass']);
+});
 
 //定义默认任务
 
 //压缩js需要在检查js之后操作
 
-gulp.task('default', ['less', 'sass', 'jshint'], function () {
+gulp.task('default', ['watch','less', 'sass', 'jshint'], function () {
 
     gulp.start('minifycss', 'minifyjs', 'minifyImg', 'htmlmin');
 
