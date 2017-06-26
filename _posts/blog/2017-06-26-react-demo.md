@@ -14,12 +14,12 @@ keywords: react,es6
 
 ### 一.最终效果
 
-*初始样式
-![](https://github.com/RaniHu/ranihu.github.io/raw/master/images/20170626react-demo1.png)
+* 初始样式
+![](https://github.com/RaniHu/ranihu.github.io/blob/master/images/blog/20170626react-demo1.png)
 
 * 点击两个子组件中的任何一个颜色块，父组件区域则会呈现相应的背景色
 * 点击父组件中两个颜色块，分别改变相应的子组件区域的背景色
-![](https://github.com/RaniHu/ranihu.github.io/raw/master/images/20170626react-demo2.png)
+![](https://github.com/RaniHu/ranihu.github.io/blob/master/images/blog/20170626react-demo2.png)
 
 
 
@@ -143,6 +143,17 @@ keywords: react,es6
           
     ```
 
+### 三.源码及演示地址
+
+* 完整源码请点击[github](https://github.com/RaniHu/react-demo)
+* 在线演示地址请点击[在线演示](http://www.ranihu.site/react-demo/)
+
+
+### 四、react相关文章推荐
+
+* [react五个常用demo展示](http://blog.csdn.net/iambinger/article/details/51803606)
+* [模仿知乎界面的一个简单React demo](http://react-china.org/t/react-demo/9044)
+* [基于webpack + react + react-router + redux + less + flex.css + ES6 的React版cnode社区](http://react-china.org/t/webpack-react-react-router-redux-less-flex-css-es6-react-cnode/6332)
 
 
 
