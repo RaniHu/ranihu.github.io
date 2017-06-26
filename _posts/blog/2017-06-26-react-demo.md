@@ -15,11 +15,11 @@ keywords: react,es6
 ### 一.最终效果
 
 * 初始样式
-![](https://github.com/RaniHu/ranihu.github.io/blob/master/images/blog/20170626react-demo1.png)
+![](https://raw.githubusercontent.com/RaniHu/ranihu.github.io/master/images/blog/20170626react-demo1.png)
 
 * 点击两个子组件中的任何一个颜色块，父组件区域则会呈现相应的背景色
 * 点击父组件中两个颜色块，分别改变相应的子组件区域的背景色
-![](https://github.com/RaniHu/ranihu.github.io/blob/master/images/blog/20170626react-demo2.png)
+![](https://raw.githubusercontent.com/RaniHu/ranihu.github.io/master/images/blog/20170626react-demo2.png)
 
 
 
